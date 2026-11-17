@@ -16,4 +16,4 @@ running [zenpaw labs](https://github.com/zenpaw-labs/).
 
 ## contact me
 - [instagram](https://instagram.com/sakkkurai)
-- [email](mailto:mykkhailo@protonmail.com)
+- [email](mailto:wxrldpaw@protonmail.com)
