@@ -15,5 +15,5 @@ running [zenpaw labs](https://github.com/zenpaw-labs/).
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## contact me
-- [instagram](https://instagram.com/sakkkurai)
+- [instagram](https://instagram.com/wxrldpaw)
 - [email](mailto:wxrldpaw@protonmail.com)
